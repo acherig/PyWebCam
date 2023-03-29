@@ -1,0 +1,1 @@
+This is an application which sends an e-mail when an object come in front of the camera.
